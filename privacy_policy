@@ -1,0 +1,23 @@
+1. Introduction
+
+Welcome to My GPTs! This privacy policy explains how we collect, use, and protect your information when you use our API integration that triggers workflows and generates output images using the ComfyUI API. Please note that this application is for personal use only and is not intended for commercial purposes.
+
+2. Information We Collect
+
+We do not collect any personal data from users who utilize the ComfyUI API integration through My GPTs. All interactions with the API are handled locally on your device or through the ComfyUI service, and no user-specific data is stored or processed by our system.
+
+3. Use of Information
+
+Since we do not collect any personal data, there is no information to use for any purposes. All data processing is done directly by the ComfyUI API, and any results (such as generated images) are returned directly to you without our system retaining any copies.
+
+4. Data Security
+
+While we do not collect personal data, we are committed to ensuring that any interactions with the ComfyUI API are secure. We recommend that users take appropriate measures to protect their data and devices when using the API.
+
+5. Third-Party Services
+
+The My GPTs integration relies on the ComfyUI API to process and generate images. Please refer to the ComfyUI privacy policy for details on how they manage and protect your data.
+
+6. Changes to This Privacy Policy
+
+We may update this privacy policy from time to time. Any changes will be reflected on this page, and we encourage you to review the policy periodically to stay informed.
